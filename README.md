@@ -20,8 +20,14 @@ This project focuses on leveraging Convolutional Neural Networks (CNNs) to detec
 
 ## Project Structure
 
-<img width="417" alt="Screenshot 2024-03-04 at 6 43 19 PM" src="https://github.com/hithaishisurendra/lung-cancer-detection-using-CNN/assets/114680442/01f94265-59bd-49dc-983c-b41671b0b65f">
+<img width="600" alt="Screenshot 2024-03-04 at 6 43 19 PM" src="https://github.com/hithaishisurendra/lung-cancer-detection-using-CNN/assets/114680442/01f94265-59bd-49dc-983c-b41671b0b65f">
 
+
+## Results
+
+<img width="600" alt="Screenshot 2024-03-04 at 6 44 31 PM" src="https://github.com/hithaishisurendra/lung-cancer-detection-using-CNN/assets/114680442/4061f586-cb5e-4dd7-a203-728e89cd5a8b"> <img width="600" alt="Screenshot 2024-03-04 at 6 44 46 PM" src="https://github.com/hithaishisurendra/lung-cancer-detection-using-CNN/assets/114680442/b6b16eea-5cfc-40ea-abc4-1a3acf088b77">
+
+##Getting Started
 
 1. Clone the repository.
 
@@ -30,13 +36,7 @@ This project focuses on leveraging Convolutional Neural Networks (CNNs) to detec
 3. Train the CNN model using the provided dataset and evaluate its performance on the testing dataset.
 
 4. Explore the results and assess the model's accuracy in lung cancer detection.
-
-## Results
-
-<img width="600" alt="Screenshot 2024-03-04 at 6 44 31 PM" src="https://github.com/hithaishisurendra/lung-cancer-detection-using-CNN/assets/114680442/4061f586-cb5e-4dd7-a203-728e89cd5a8b"> <img width="548" alt="Screenshot 2024-03-04 at 6 44 46 PM" src="https://github.com/hithaishisurendra/lung-cancer-detection-using-CNN/assets/114680442/b6b16eea-5cfc-40ea-abc4-1a3acf088b77">
-
-
-
+   
 ---
 
 Feel free to reach out for any questions or feedback. Together, let's make strides in early detection and management of lung cancer! 🩺🔬

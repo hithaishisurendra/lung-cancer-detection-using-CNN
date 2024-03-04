@@ -20,7 +20,7 @@ This project focuses on leveraging Convolutional Neural Networks (CNNs) to detec
 
 ## Project Structure
 
-<img width="600" height="600" alt="Screenshot 2024-03-04 at 6 43 19 PM" src="https://github.com/hithaishisurendra/lung-cancer-detection-using-CNN/assets/114680442/01f94265-59bd-49dc-983c-b41671b0b65f">
+<img width="250" height="400" alt="Screenshot 2024-03-04 at 6 43 19 PM" src="https://github.com/hithaishisurendra/lung-cancer-detection-using-CNN/assets/114680442/01f94265-59bd-49dc-983c-b41671b0b65f">
 
 
 ## Results

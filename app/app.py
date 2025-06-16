@@ -101,7 +101,6 @@ def get_mask_slice(mask, z):
 scan_df, nod_df = load_meta()
 scan = scan_df.iloc[0]
 pid = scan.PatientID
-
 img_arr = load_raw_img(pid)
 mask_arr = load_mask(pid)
 
